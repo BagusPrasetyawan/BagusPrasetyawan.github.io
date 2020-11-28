@@ -1,0 +1,34 @@
+{
+    "theme_color": "#81d4fa",
+    "name": "Soccer league",
+    "gcm_sender_id": "642097308993",
+    "background_color": "#81d4fa",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/index.html",
+    "app_name": "Soccer league",
+    "short_name": "SL",
+    "description": "Aplikasi PWA Soccer league",
+    "icons": [
+        {
+            "src": "/img/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
